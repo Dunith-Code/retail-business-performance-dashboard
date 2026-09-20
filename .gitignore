@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+d1/
+.ipynb_checkpoints/
+*.egg-info/
+
+# Power BI
+*.pbix.bak
+~$*.pbix
+
+# Excel
+~$*.xlsx
+~$*.xls
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Environment / secrets
+.env
+
+# Large or local-only data (optional — uncomment if you don't want raw data in the repo)
+# data/raw/
+
+# ZIP
+*.zip
