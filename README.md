@@ -99,4 +99,4 @@ All cleaning decisions, validation checks, and edge cases (including the duplica
 
 ## 👤 Author
 
-Dunith Athukorala — [GitHub](https://github.com/Dunith-Code)
+Dunith Desitha Athukorala — [GitHub](https://github.com/Dunith-Code)
