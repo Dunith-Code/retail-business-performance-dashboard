@@ -44,9 +44,9 @@ retail-business-performance-dashboard/
 │   └── 01_data_cleaning.xlsx
 │
 ├── python/
-│   ├── 01_clean_data.py
-│   ├── 02_validation_checks.py
-│   └── 03_eda.ipynb
+│   ├── clean_data.py
+│   ├── validation_checks.py
+│   └── eda.ipynb
 │
 ├── powerbi/
 │   └── business_dashboard.pbix
